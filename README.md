@@ -27,28 +27,27 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Krishna2win/Loan_Approval.git
    cd Loan_Approval
-2. Create and activate a virtual
-3. environment (optional but recommended):
+2. Create and activate a virtual:
    ```bash
    python -m venv venv
+4. environment (optional but recommended):
+   ```bash
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-4.  Install the required packages:
+5.  Install the required packages:
     ```bash
     pip install -r requirements.txt
-5.  To run the Streamlit app, use:
+6.  To run the Streamlit app, use:
     ```bash
     streamlit run app.py
 
-### Usage
+## Usage
 
-# Start the Flask app
-python app.py
+After installation, you can run the Streamlit app to interact with the model and explore the data. The main app file for the project is `app.py`.
 
-# Access the app
-# Open your web browser and go to http://127.0.0.1:5000/
+To start the Streamlit app, run:
+    ```bash
+    streamlit run app.py
 
-# Explore the Jupyter notebook (optional)
-jupyter notebook LoanApproval.ipynb
 
 ### Model
 
