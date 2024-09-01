@@ -24,17 +24,17 @@ This project is a machine learning-based loan approval prediction system. It pre
 To run this project locally, follow these steps:
 
 1. Clone this repository:
-   ```bash
+    ```bash
    git clone https://github.com/Krishna2win/Loan_Approval.git
    cd Loan_Approval
 2. Create and activate a virtual:
-   ```bash
+    ```bash
    python -m venv venv
 4. environment (optional but recommended):
-   ```bash
+    ```bash
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 5.  Install the required packages:
-    ```bash
+     ```bash
     pip install -r requirements.txt
 6.  To run the Streamlit app, use:
      ```bash
