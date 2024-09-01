@@ -40,16 +40,6 @@ To run this project locally, follow these steps:
      ```bash
     streamlit run app.py
 
-## Usage
-
-After installation, you can run the Streamlit app to interact with the model and explore the data. The main app file for the project is `app.py`.
-
-To start the Streamlit app, run:
-    ```bash
-    streamlit run app.py
-     
-
-
 ### Model
 
 The loan approval model is created using scikit-learn and is integrated into a Streamlit application. The process includes:
