@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
     ```bash
     pip install -r requirements.txt
 6.  To run the Streamlit app, use:
-    ```bash
+     ```bash
     streamlit run app.py
 
 ## Usage
