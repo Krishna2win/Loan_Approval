@@ -15,7 +15,7 @@ This project is a machine learning-based loan approval prediction system. It pre
 ### Prerequisites
 
 - Python 3.x
-- Flask
+- Streamlit
 - Jupyter Notebook
 - Required Python libraries listed in `requirements.txt`
 
