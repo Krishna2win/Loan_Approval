@@ -45,8 +45,8 @@ To run this project locally, follow these steps:
 After installation, you can run the Streamlit app to interact with the model and explore the data. The main app file for the project is `app.py`.
 
 To start the Streamlit app, run:
-    ```bash
-    streamlit run app.py
+     ```bash
+     streamlit run app.py
 
 
 ### Model
