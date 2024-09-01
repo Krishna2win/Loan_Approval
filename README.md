@@ -19,19 +19,25 @@ This project is a machine learning-based loan approval prediction system. It pre
 - Jupyter Notebook
 - Required Python libraries listed in `requirements.txt`
 
-### Installation
+## Installation
 
-# Clone the repository
-git clone https://github.com/Krishna2win/Loan_Approval.git && cd Loan_Approval
+To run this project locally, follow these steps:
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Flask app
-python app.py
-
-# Open the app in your browser
-# Visit http://127.0.0.1:5000/
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Krishna2win/Loan_Approval.git
+   cd Loan_Approval
+2. Create and activate a virtual
+3. environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+4.  Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+5.  To run the Streamlit app, use:
+    ```bash
+    streamlit run app.py
 
 ### Usage
 
