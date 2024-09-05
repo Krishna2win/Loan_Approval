@@ -4,7 +4,7 @@ This project is a machine learning-based loan approval prediction system. It pre
 
 This project predicts loan approval based on user input data. Below is the architecture of the model used:
 
-![Loan Approval Flowchart](/images/Loan_flowchart.png)
+![Loan Approval Flowchart](Images/Loan_flowchart.png)
 ## Project Structure
 
 - `LoanApproval.ipynb`: Jupyter notebook containing data analysis, preprocessing, model training, and evaluation.
