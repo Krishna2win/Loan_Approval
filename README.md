@@ -59,12 +59,12 @@ Use the Streamlit interface to input data and get predictions.
 
 - **Accuracy**: 90.8%
 - **Classification Report**:
-- 
+  
 The performance of each model is summarized below:
 
 | Model                | Accuracy | Precision | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | 90%      | 0.92      | 0.89   | 0.90     |
+| Logistic Regression  | 90%      | 0.92      | 0.89   | 0.90     |
 
 
 This showcases the high accuracy of the Logistic Regression model used for loan approval prediction.
